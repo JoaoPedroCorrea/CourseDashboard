@@ -1,7 +1,7 @@
 <div class="titulo">Operadores Lógicos</div>
 
 <?php
-echo "<p>V ou F </p>";
+echo "<p style='margin-bottom: 0px;'>Negação Lógica</p><hr style='margin-top: 0px;'>";
 var_dump(true);
 echo '<br>';
 var_dump(!true); // not
@@ -34,3 +34,15 @@ var_dump(true  != true);
 var_dump(true  != false);
 var_dump(false != true);
 var_dump(false != false);
+
+echo "<p style='margin-bottom: 0px;'>Exemplo</p><hr style='margin-top: 0px;'>";
+$idade = 62;
+$sexo = 'M';
+
+if($idade >= 60 && $sexo === 'F') {
+    echo 'Pode se aposentar';
+} else if($idade >= 65 && $sexo === 'M'){
+    echo 'Pode se aposentar';
+} else {
+    echo 'Vai ter que trabalhar mais um pouco...';
+}
