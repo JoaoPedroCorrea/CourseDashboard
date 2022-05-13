@@ -18,3 +18,4 @@ function anotarPedido($comida, $bebida = 'Água'){
 
 anotarPedido('Pizza', "Jackson Daniel");
 anotarPedido('Hamburguer');
+
