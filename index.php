@@ -22,6 +22,9 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interfaces</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Abstract</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio 7 Erros</a></li>
                     </div>
                     <div class="modulo vermelho-escuro">
                     <h3>Funções</h3>
