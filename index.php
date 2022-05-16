@@ -14,6 +14,15 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                    <div class="modulo azul-escuro">
+                    <h3>Paradigma O.O.</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=classe">Classes e Objetos</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=desafio_data">Desafio Data</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e Destrutor</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros Estáticos</a></li>
+                    </div>
                     <div class="modulo vermelho-escuro">
                     <h3>Funções</h3>
                     <ul>
