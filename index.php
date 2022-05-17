@@ -25,6 +25,9 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interfaces</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Abstract</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio 7 Erros</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=final">Modificador Final</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=trait_01">Trait #01</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=trait_02">Trait #02</a></li>
                     </div>
                     <div class="modulo vermelho-escuro">
                     <h3>Funções</h3>
