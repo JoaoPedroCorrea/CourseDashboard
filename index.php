@@ -28,6 +28,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=final">Modificador Final</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=trait_01">Trait #01</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=trait_02">Trait #02</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=magic_methods">Metodos Mágicos</a></li>
                     </div>
                     <div class="modulo vermelho-escuro">
                     <h3>Funções</h3>
