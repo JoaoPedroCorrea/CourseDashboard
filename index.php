@@ -20,6 +20,8 @@
                         <li><a href="exercicio.php?dir=includes&file=include">Include</a></li>
                         <li><a href="exercicio.php?dir=includes&file=include_funcao">Include em Função</a></li>
                         <li><a href="exercicio.php?dir=includes&file=include_require">Include vs. Require</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=require_return">Require & Return</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=include_once">Include Once</a></li>
                     </div>
                     <div class="modulo azul-escuro">
                     <h3>Paradigma O.O.</h3>
