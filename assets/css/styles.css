@@ -139,3 +139,7 @@ body {
 
 .modulo.laranja-escuro { border: 2px solid#E65527; }
 .modulo.laranja-escuro > h3 { background-color: #E65527; }
+
+.modulo.amarelo-escuro { border: 2px solid #ada500 }
+.modulo.amarelo-escuro > h3 { background-color: #ada500; }
+
