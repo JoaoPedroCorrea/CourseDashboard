@@ -14,6 +14,12 @@
     <main class="principal">
         <div class="conteudo">
                 <nav class="modulos">
+                    <div class="modulo verde">
+                        <h3>Cookies e Sessão</h3>
+                        <ul>
+                        <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Básico</a></li>
+                        </ul>
+                    </div>
                     <div class="modulo amarelo-escuro">
                         <h3>Tratamento de Erros</h3>
                         <ul>
