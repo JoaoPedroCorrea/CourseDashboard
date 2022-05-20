@@ -21,6 +21,14 @@ require_once('cookie.php');
     <main class="principal">
         <div class="conteudo">
                 <nav class="modulos">
+                    <div class="modulo azul">
+                        <h3>API</h3>
+                        <ul>
+                        <li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+                        <li><a href="exercicio.php?dir=api&file=datas_02">Datas #02</a></li>
+                        <li><a href="exercicio.php?dir=api&file=escrever_arquivo">Escrever Arquivos</a></li>
+                        </ul>
+                    </div>
                     <div class="modulo verde">
                         <h3>Cookies e Sessão</h3>
                         <ul>
