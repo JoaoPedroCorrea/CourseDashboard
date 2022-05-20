@@ -163,3 +163,12 @@ body {
     margin-right: 10px;
     border-radius: 5px;
 }
+
+span.usuario {
+    flex-grow: 1;
+    justify-self: flex-start;
+    color: #FFF;
+    padding-left: 20px;
+    font-size: 1.2rem;
+    font-weight: 300;
+}

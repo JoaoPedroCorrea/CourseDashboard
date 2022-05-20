@@ -1,8 +1,5 @@
 <?php
-session_start();
-if(!$_SESSION['usuario']){
-    header('Location: login.php');
-}
+require_once('cookie.php');
 ?>
 
 <!DOCTYPE html>
