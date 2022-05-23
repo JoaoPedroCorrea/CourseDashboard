@@ -26,6 +26,7 @@ require_once('cookie.php');
                         <ul>
                         <li><a href="exercicio.php?dir=db&file=createDB">Create Database</a></li>
                         <li><a href="exercicio.php?dir=db&file=createTables">Create Tables</a></li>
+                        <li><a href="exercicio.php?dir=db&file=insert_01">Insert Register</a></li>
                         </ul>
                     </div>
                     <div class="modulo laranja">
