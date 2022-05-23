@@ -1,0 +1,4 @@
+Valor inicial
+Segunda linha
+
+ Adicionado durante leituraos em um segundo momento
