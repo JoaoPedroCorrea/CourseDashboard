@@ -21,6 +21,13 @@ require_once('cookie.php');
     <main class="principal">
         <div class="conteudo">
                 <nav class="modulos">
+                    <div class="modulo roxo">
+                        <h3>Database</h3>
+                        <ul>
+                        <li><a href="exercicio.php?dir=db&file=createDB">Create Database</a></li>
+                        <li><a href="exercicio.php?dir=db&file=createTables">Create Tables</a></li>
+                        </ul>
+                    </div>
                     <div class="modulo laranja">
                         <h3>Formulário</h3>
                         <ul>
