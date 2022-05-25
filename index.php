@@ -26,8 +26,9 @@ require_once('cookie.php');
                         <ul>
                         <li><a href="exercicio.php?dir=db&file=createDB">Create Database</a></li>
                         <li><a href="exercicio.php?dir=db&file=createTables">Create Tables</a></li>
-                        <li><a href="exercicio.php?dir=db&file=insert_01">Insert Register</a></li>
                         <li><a href="exercicio.php?dir=db&file=select">Select</a></li>
+                        <li><a href="exercicio.php?dir=db&file=insert_01">Insert #01</a></li>
+                        <li><a href="exercicio.php?dir=db&file=insert_02">Insert #02</a></li>
                         <li><a href="exercicio.php?dir=db&file=delete_01">Delete #01</a></li>
                         <li><a href="exercicio.php?dir=db&file=delete_02">Delete #02</a></li>
                         </ul>
