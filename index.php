@@ -31,6 +31,7 @@ require_once('cookie.php');
                         <li><a href="exercicio.php?dir=db&file=insert_02">Insert #02</a></li>
                         <li><a href="exercicio.php?dir=db&file=delete_01">Delete #01</a></li>
                         <li><a href="exercicio.php?dir=db&file=delete_02">Delete #02</a></li>
+                        <li><a href="exercicio.php?dir=db&file=change">Alterar Registro</a></li>
                         </ul>
                     </div>
                     <div class="modulo laranja">
