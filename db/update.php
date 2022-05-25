@@ -92,7 +92,7 @@ if(count($_POST) > 0){
 
 <form action="/exercicio.php" method="get">
     <input type="hidden" name="dir" value="db">
-    <input type="hidden" name="file" value="change">
+    <input type="hidden" name="file" value="update">
     <div class="form-group row">
         <div class="col-sm-10">
             <input type="number" name="code" value="<?= $_GET['code'] ?>" placeholder="Informe o código de cliente" class="form-control">
