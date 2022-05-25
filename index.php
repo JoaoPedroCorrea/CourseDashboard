@@ -36,6 +36,7 @@ require_once('cookie.php');
                         <li><a href="exercicio.php?dir=db&file=insert_pdo">Insert PDO</a></li>
                         <li><a href="exercicio.php?dir=db&file=select_pdo">Select PDO</a></li>
                         <li><a href="exercicio.php?dir=db&file=delete_pdo">Delete PDO</a></li>
+                        <li><a href="exercicio.php?dir=db&file=update_pdo">Update PDO</a></li>
                         </ul>
                     </div>
                     <div class="modulo laranja">
