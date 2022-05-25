@@ -24,3 +24,5 @@ if($connection->exec($sql)){
     echo $connection->errorCode();
     print_r($connection->errorInfo());
 }
+
+$connection->close();
