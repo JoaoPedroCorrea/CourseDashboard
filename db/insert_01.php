@@ -4,7 +4,7 @@
 
 require_once("connection.php");
 
-$sql = "INSERT INTO cadastro (name, birthdate, email, site, sons, salary) VALUES ( 
+$sql = "INSERT INTO register (name, birthdate, email, site, sons, salary) VALUES ( 
     'Marieta', 
     '1990-07-22', 
     'marieta@email.com', 
@@ -13,3 +13,13 @@ $sql = "INSERT INTO cadastro (name, birthdate, email, site, sons, salary) VALUES
     13000
 )";
 
+$connection = newConnection();
+$result = $connection->query($sql);
+
+if($result){
+    echo "Success";
+} else {
+    echo "Error: " . $connection->error;
+}
+
+$connection->close();
