@@ -5,12 +5,12 @@
 require_once("connection.php");
 
 $sql = "INSERT INTO register (name, birthdate, email, site, sons, salary) VALUES ( 
-    'Marieta', 
-    '1990-07-22', 
-    'marieta@email.com', 
-    'https://marieta123.com', 
+    'Cibele', 
+    '1991-05-14', 
+    'cibels@gmail.com', 
+    'https://cibis.com.br', 
     2, 
-    13000
+    6000
 )";
 
 $connection = newConnection();
